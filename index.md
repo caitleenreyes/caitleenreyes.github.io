@@ -18,8 +18,7 @@ Dr. Orit Peleg’s research focuses on understanding the behavior of disordered 
 
 Throughout this research experience, I am working closely with Danielle Chase who is a postdoctoral fellow in Dr. Peleg’s lab. She has a background in mechanical engineering and works to answer fundamental questions about the mechanics of honeybees.
 
-To read more about Dr. Orit Peleg's research, I have included a link to her research webpage below.
-https://www.peleglab.com
+To read more about Dr. Orit Peleg's research, I have included a link to her research webpage: https://www.peleglab.com
 
 ## About My Project
 
